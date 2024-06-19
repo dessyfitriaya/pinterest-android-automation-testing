@@ -4,11 +4,11 @@ public class Testing {
 
     public static void main(String[] args) throws MalformedURLException, InterruptedException {
         SignIn();
-        //Pin();
-        //Collage();
-        //Board();
-        //Search();
-        //LogOut();
+        Pin();
+        Collage();
+        Board();
+        Search();
+        LogOut();
     }
 
     public static void SignIn() throws MalformedURLException, InterruptedException {
